@@ -72,8 +72,16 @@ input, select, textarea {
 	appearance: none;
 }
 
+#intro {
+	background-image: "images/intro.png";
+}
+
 #one {
-	background-image: "images/overlay.png"
+	background-image: "images/one.png";
+}
+
+#two {
+	background-image: "images/two.png";
 }
 
 /* Basic */
