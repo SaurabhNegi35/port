@@ -73,19 +73,19 @@ input, select, textarea {
 }
 
 #intro {
-	background-image: "images/intro.jpg";
+	background-image: "images/intro.jpg" !important;
 }
 
 #one {
-	background-image: "images/one.jpg";
+	background-image: "images/one.jpg" !important;
 }
 
 #two {
-	background-image: "images/two.jpg";
+	background-image: "images/two.jpg" !important;
 }
 
 #two {
-	background-image: "images/two.jpg";
+	background-image: "images/two.jpg" !important;
 }
 
 /* Basic */
