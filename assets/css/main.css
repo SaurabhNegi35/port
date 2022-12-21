@@ -72,6 +72,10 @@ input, select, textarea {
 	appearance: none;
 }
 
+#one {
+	background-image: "images/overlay.png"
+}
+
 /* Basic */
 
 	@-ms-viewport {
